@@ -48,5 +48,5 @@
       
         - MVC: As intended (XMLless).
         - GET: As intended.
-        - POST: As intended for CREATE and PROCESS REQUEST
+        - POST: As intended for CREATE and PROCESS REQUEST (Acts as a GET).
       
