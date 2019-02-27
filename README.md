@@ -30,6 +30,8 @@
       Gradle: https://gradle.org/
       Spring Framework: https://projects.spring.io/spring-framework/
       Spring Boot: https://spring.io/projects/spring-boot
+      Apache Tomcat 9: http://tomcat.apache.org/
+      Advanced REST Client: https://install.advancedrestclient.com/install
    
    
    
@@ -43,6 +45,7 @@
       Currently, the following will work with limitations:
       
       # RESTful Webservices:
+      
         - MVC: As intended (XMLless).
         - GET: As intended.
         - POST: As intended for CREATE and PROCESS REQUEST
