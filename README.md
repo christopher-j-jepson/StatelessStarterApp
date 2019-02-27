@@ -46,7 +46,11 @@
       
       # RESTful Webservices:
       
-        - MVC: As intended (XMLless).
         - GET: As intended.
         - POST: As intended for CREATE and PROCESS REQUEST (Acts as a GET).
       
+      
+      # Spring Framework MVC:
+      
+        - Index.jsp
+        - Welcome.jsp
