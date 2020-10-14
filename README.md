@@ -39,7 +39,7 @@
    
       The Stateless Starter Web Application incorporating Spring-Boot, an MVC, REST w/ JSON, 
       built with Gradle, free of XML configuration, coded on Java 10, and designed to be 
-      deployed on Apache Tomcat. It is a work-in-progress, but is set as a milestone for
+      deployed on Apache Tomcat. It is set as a milestone for
       demonstration purposes only.
       
       Currently, the following will work with limitations:
